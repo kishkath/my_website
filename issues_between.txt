@@ -1,0 +1,1 @@
+1. The css file when created with .txt files has an extension of txt where the file-name is  styles.css.txt, so got an issue, so need to create a file in some IDE.
